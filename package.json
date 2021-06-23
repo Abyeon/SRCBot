@@ -1,0 +1,27 @@
+{
+  "name": "srcbot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot for pulling info from the Speedrun.com api",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abyeon/SRCBot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Speedrun"
+  ],
+  "author": "Porter Seals",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abyeon/SRCBot/issues"
+  },
+  "homepage": "https://github.com/Abyeon/SRCBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
